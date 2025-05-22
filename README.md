@@ -1,2 +1,3 @@
-# inventory-app
-A containerized Flask + SQLAlchemy inventory management demo
+# Inventory App
+
+A demo inventory management system built with Flask, SQLAlchemy, and Docker.
